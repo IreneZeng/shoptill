@@ -223,10 +223,6 @@ public class ShopTill {
         // When the changes equal to the total amount in the till
         if(total_amounts_in_till == changes){
             return_coins = shop_till;
-            // for(int i = 0; i < coins_types.length; i++){
-            //     return_coins.put(coins_types[i], 0);
-                
-            // }
         }
 
         // Find corresponding number of coins to make the changes
