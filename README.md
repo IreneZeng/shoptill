@@ -17,17 +17,18 @@ There are four conditions that the current trade will be canceled, and correspon
 If the current trade was canceled, the next trade will start (input a new payment details).
 
 There is one situation that the shop till will be closed, which is the till is emputy (no coins in the till), 
+
 as shown in below sample output:
-<img align="center" src="docs/shop_till_closed.png" width="70%"/>
+<img align="center" src="docs/shop_till_closed.png" width="50%"/>
 
 Sample output of the normal situation:
-<img align="center" src="docs/normal_output.png" width="70%"/>
+<img align="center" src="docs/normal_output.png" width="50%"/>
 
 Sample output of trade cancellation - condition 1:
-<img align="center" src="docs/condition1.png" width="70%"/>
+<img align="center" src="docs/condition1.png" width="50%"/>
 
 Sample output of trade cancellation - condition 2:
-<img align="center" src="docs/condition2.png" width="70%"/>
+<img align="center" src="docs/condition2.png" width="50%"/>
 
 ## Steps to run the function
   1. run `javac ShopTill.java`
