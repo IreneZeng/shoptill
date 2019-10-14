@@ -16,7 +16,8 @@ There are four conditions that the current trade will be canceled, and correspon
 3. There are not enough money in the till (changes are greater than the money in the till, normally this will not happen since the shop till will first take the payment from the customer.).
 If the current trade was canceled, the next trade will start (input a new payment details).
 
-There is one situation that the shop till will be closed, which is the till is emputy (no coins in the till), as shown in below sample output:
+There is one situation that the shop till will be closed, which is the till is emputy (no coins in the till), 
+as shown in below sample output:
 <img align="center" src="docs/shop_till_closed.png" width="70%"/>
 
 Sample output of the normal situation:
