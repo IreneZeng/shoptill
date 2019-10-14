@@ -9,6 +9,7 @@ To achieve this function:
 - Secondly, the customer need to input a double number to indicate the sale amount.
 - Then, the customer need to input eight integers which indicates the number of different coins paid by the customer.
 - Finally, the corresponding changes will be given based on the input information. (Note that the details of changes will show only if there are changes need to give, for example, if the payment is equal to the sale amount, then there will be no changes.)
+- The number of coins in the till is also shown after each trade just for checking the correctness of the algorithm.
 
 There are four conditions that the current trade will be canceled, and corresponding message will pop up:
 1. The payment from the customer is not enough.
